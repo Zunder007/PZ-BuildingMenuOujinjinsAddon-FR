@@ -1,0 +1,6 @@
+IGUI_FR = {
+
+    IGUI_BuildingMenuSubCat_Containers_Military = "Conteneurs militaires",
+    IGUI_BuildingMenuSubCat_Containers_Vault_Tec = "Conteneurs Vault-Tec",
+
+}
